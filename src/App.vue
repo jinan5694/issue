@@ -1,7 +1,9 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h3>issue on console</h3>
+    <p>[Vue warn]: Failed to mount component: template or render function not defined.</p>
+    <p>Why <code>jsx</code> not work ?</p>
+    <HelloWorld/>
   </div>
 </template>
 
